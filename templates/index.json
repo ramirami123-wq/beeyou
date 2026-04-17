@@ -222,21 +222,21 @@
             "show_quick_buy": true,
             "enable_quick_view": true,
             "color": "#ffffff",
-            "horizontal": 30,
-            "vertical": 40
+            "horizontal": 56,
+            "vertical": 49
           }
         },
         "product-2": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "ashwagandha-gummies",
             "image_ratio": "square",
             "show_vendor": true,
             "show_quick_buy": true,
             "enable_quick_view": true,
             "color": "#ffffff",
-            "horizontal": 45,
-            "vertical": 65
+            "horizontal": 74,
+            "vertical": 59
           }
         }
       },
