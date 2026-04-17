@@ -257,6 +257,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -339,6 +340,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -506,6 +508,29 @@
         "padding_bottom": 36
       }
     },
+    "17764628746257059b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_U9zywE": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_U9zywE"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -617,6 +642,7 @@
     "17764622655effde13",
     "logo_list_mVxzE8",
     "faq_jmBgHT",
+    "17764628746257059b",
     "guarantees",
     "product-recommendations",
     "recently-viewed-products"
