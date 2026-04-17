@@ -54,7 +54,7 @@
         "custom_liquid_xYaQhe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🍏 Supports Metabolism</span> – Helps boost your metabolism and support your daily wellness routine.<br><br>\n<span style=\"font-weight: bold;\">🌿 Aids Digestion</span> – Promotes healthy digestion and helps reduce bloating.<br><br>\n<span style=\"font-weight: bold;\">💫 Easy & Delicious</span> – Enjoy all the benefits of apple cider vinegar in a tasty gummy—no harsh taste.\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🧘‍♀️ Reduces Stress</span> – Helps your body manage stress and promotes a sense of calm and relaxation.<br><br>\n<span style=\"font-weight: bold;\">😴 Supports Better Sleep</span> – Encourages restful sleep and helps you wake up feeling refreshed.<br><br>\n<span style=\"font-weight: bold;\">⚡ Boosts Mood & Focus</span> – Supports mental clarity, focus, and overall emotional balance.\n</div>"
           }
         },
         "countdown": {
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "Benefits",
-            "content": "<p>Supports metabolism and helps maintain energy balance<br/><br/>Aids digestion and may help reduce bloating<br/><br/>Promotes overall wellness and daily balance<br/><br/>Delicious gummy format with no harsh vinegar taste</p>",
+            "content": "<p>Helps reduce stress and promote relaxation<br/><br/>Supports better sleep and recovery<br/><br/>Boosts mood and emotional balance<br/><br/>Helps improve focus and mental clarity<br/><br/>Easy, tasty way to take ashwagandha daily</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -195,7 +195,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Simple habits. Real results",
+            "text": "Calm mind. Balanced life",
             "text_size": 16,
             "link": ""
           }
@@ -223,7 +223,7 @@
         "heading_ATq6pe": {
           "type": "heading",
           "settings": {
-            "heading": "Wellness Made Simple",
+            "heading": "Find Your Calm",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -231,7 +231,7 @@
         "text_GwRdDz": {
           "type": "text",
           "settings": {
-            "text": "<p>Taking care of your body shouldn’t be complicated. Our Apple Cider Vinegar Gummies make it easy to support your metabolism and digestion in a simple, enjoyable way—no harsh taste, no hassle.</p>",
+            "text": "<p>Support your body’s natural response to stress with a simple daily routine. These gummies help you feel more relaxed, balanced, and in control throughout the day.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -243,7 +243,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/sdfsdf.jpg",
+        "image": "shopify://shop_images/WhatsAppImage2026-04-11at2.04.06PM_a76d30b7-0107-4ddb-84d9-12b793e3531b.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -277,7 +277,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Feel better, one gummy at a time.",
+            "text": "Relax, reset, recharge",
             "text_size": 20,
             "link": ""
           }
@@ -306,7 +306,7 @@
         "heading_rYxBbH": {
           "type": "heading",
           "settings": {
-            "heading": "Feel Good Every Day",
+            "heading": "Rest & Recharge",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -314,7 +314,7 @@
         "text_ckyDHT": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed for your daily routine, these gummies help you stay consistent with your wellness goals. Just chew, enjoy, and give your body the support it needs to feel balanced and energized.</p>",
+            "text": "<p>Designed to promote better sleep and recovery, helping you wake up feeling refreshed, focused, and ready to take on the day.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -326,7 +326,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_4086.jpg",
+        "image": "shopify://shop_images/IMG_9655_JPG_e30b8db7-e52c-467f-a606-b1e2209b7fa0.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -379,24 +379,24 @@
             "content_spacing": 15,
             "benefit_1_enabled": true,
             "benefit_1_icon": "checkmark",
-            "benefit_1_title": "Daily Metabolism Support",
-            "benefit_1_description": "Helps boost your metabolism and support your body’s natural energy balance throughout the day.",
+            "benefit_1_title": "Stress Support",
+            "benefit_1_description": "Helps your body manage daily stress and promotes a calm, relaxed state of mind.",
             "benefit_2_enabled": true,
             "benefit_2_icon": "heart",
-            "benefit_2_title": "Better Digestion",
-            "benefit_2_description": "Supports healthy digestion and may help reduce bloating, so you feel lighter and more comfortable.",
+            "benefit_2_title": "Better Sleep",
+            "benefit_2_description": "Supports restful sleep so you can wake up feeling refreshed and recharged.",
             "benefit_3_enabled": true,
             "benefit_3_icon": "star",
-            "benefit_3_title": "Easy Wellness Routine",
-            "benefit_3_description": "A simple, delicious way to enjoy the benefits of apple cider vinegar—no harsh taste, just consistency.",
+            "benefit_3_title": "Mood Balance",
+            "benefit_3_description": "Helps maintain emotional balance and supports a more positive, steady mood.",
             "benefit_4_enabled": true,
             "benefit_4_icon": "checkmark",
-            "benefit_4_title": "Natural Energy Balance",
-            "benefit_4_description": "Supports your body’s natural processes to keep you feeling energized and on track.",
+            "benefit_4_title": "Mental Clarity",
+            "benefit_4_description": "Supports focus and concentration to help you stay sharp throughout the day.",
             "benefit_5_enabled": true,
             "benefit_5_icon": "leaf",
-            "benefit_5_title": "Clean & Convenient",
-            "benefit_5_description": "All the benefits of apple cider vinegar in a tasty, easy-to-take gummy—no mess, no strong taste."
+            "benefit_5_title": "Daily Calm",
+            "benefit_5_description": "A simple, delicious way to bring balance and relaxation into your everyday routine."
           },
           "blocks": {}
         }
@@ -455,22 +455,22 @@
         "question_eRJnLe": {
           "type": "question",
           "settings": {
-            "title": "What do Apple Cider Vinegar Gummies do?",
-            "text": "<p>They help support metabolism, aid digestion, and promote overall wellness in an easy, tasty form</p>"
+            "title": "What are Ashwagandha Gummies used for?",
+            "text": "<p>They are designed to help reduce stress, support relaxation, improve sleep quality, and promote overall mood balance.</p>"
           }
         },
         "question_3xnbRd": {
           "type": "question",
           "settings": {
             "title": "How many gummies should I take daily?",
-            "text": "<p>Follow the recommended serving on the label, typically 1–2 gummies per day.</p>"
+            "text": "<p>Follow the recommended serving on the product label, typically 1–2 gummies per day.</p>"
           }
         },
         "question_XzE7aG": {
           "type": "question",
           "settings": {
             "title": "When is the best time to take them?",
-            "text": "<p>You can take them anytime—morning or evening, with or without food.</p>"
+            "text": "<p>They can be taken anytime, but many people prefer taking them in the evening to support relaxation and sleep.</p>"
           }
         },
         "question_cHnJ9T": {
@@ -584,6 +584,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -609,6 +610,7 @@
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
         "show_divider": false,
         "heading": "Recently Viewed",
