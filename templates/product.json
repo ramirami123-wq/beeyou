@@ -406,20 +406,87 @@
       ],
       "settings": {}
     },
+    "1776528747889ea288": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c758e92_7LwDAn": {
+          "type": "ai_gen_block_c758e92",
+          "settings": {
+            "heading": "Why choose us?",
+            "heading_size": 32,
+            "heading_spacing": 24,
+            "heading_color": "#1a1b18",
+            "feature_column_label": "Features",
+            "us_column_label": "Us",
+            "others_column_label": "Others",
+            "show_badge": true,
+            "badge_text": "Best Choice",
+            "badge_background": "#ff024e",
+            "badge_text_color": "#ffffff",
+            "feature_1": "Supports Metabolism",
+            "us_1": "check",
+            "others_1": "cross",
+            "feature_2": "Aids Digestion",
+            "us_2": "check",
+            "others_2": "cross",
+            "feature_3": "Helps Reduce Bloating",
+            "us_3": "check",
+            "others_3": "cross",
+            "feature_4": "Delicious Gummy Format",
+            "us_4": "check",
+            "others_4": "cross",
+            "feature_5": "No Harsh Vinegar Taste",
+            "us_5": "check",
+            "others_5": "cross",
+            "feature_6": "",
+            "us_6": "check",
+            "others_6": "cross",
+            "feature_7": "",
+            "us_7": "check",
+            "others_7": "cross",
+            "feature_8": "",
+            "us_8": "check",
+            "others_8": "cross",
+            "desktop_width_percent": 100,
+            "header_font_size": 16,
+            "text_size": 14,
+            "cell_padding": 16,
+            "border_radius": 8,
+            "border_thickness": 1,
+            "table_background": "#ffffff",
+            "header_background": "#f3f3f3",
+            "header_text_color": "#1a1b18",
+            "highlight_column_background": "#ff024e",
+            "highlight_column_text": "#ffffff",
+            "highlight_cell_background": "#fff0f5",
+            "row_alternate_background": "#fafafa",
+            "text_color": "#212326",
+            "border_color": "#d2d5d9",
+            "check_color": "#008060",
+            "cross_color": "#d72c0d"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c758e92_7LwDAn"
+      ],
+      "settings": {}
+    },
     "logo_list_mVxzE8": {
       "type": "logo-list",
       "blocks": {
         "logo_tg9JAN": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/lab.png",
+            "image": "shopify://shop_images/lab-tested-rubber-grunge-stamp-seal-vector.jpg",
             "link": ""
           }
         },
         "logo_YmKEzx": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/halal.png",
+            "image": "shopify://shop_images/halal-logo-icon-symbol-halal-islamic-food-certification-format-png.webp",
             "link": ""
           }
         },
@@ -639,6 +706,7 @@
     "image_with_text_wTpjKY",
     "scrolling_promotion_fRBUEM",
     "image_with_text_FbEpq4",
+    "1776528747889ea288",
     "17764622655effde13",
     "logo_list_mVxzE8",
     "faq_jmBgHT",
