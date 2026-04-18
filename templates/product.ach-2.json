@@ -351,6 +351,67 @@
         "padding_bottom": 36
       }
     },
+    "1776528372f1a72bb7": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c3b5b5d_EG3dM9": {
+          "type": "ai_gen_block_c3b5b5d",
+          "settings": {
+            "heading": "Why choose us?",
+            "heading_size": 32,
+            "heading_spacing": 24,
+            "heading_color": "#1a1b18",
+            "feature_column_label": "Feature",
+            "us_column_label": "Us",
+            "others_column_label": "Others",
+            "feature_1": "Supports Stress Relief",
+            "feature_1_us": "check",
+            "feature_1_others": "cross",
+            "feature_2": "Promotes Better Sleep",
+            "feature_2_us": "check",
+            "feature_2_others": "cross",
+            "feature_3": "Boosts Mood & Balance",
+            "feature_3_us": "check",
+            "feature_3_others": "cross",
+            "feature_4": "Delicious Gummy Format",
+            "feature_4_us": "check",
+            "feature_4_others": "cross",
+            "feature_5": "",
+            "feature_5_us": "check",
+            "feature_5_others": "cross",
+            "feature_6": "",
+            "feature_6_us": "check",
+            "feature_6_others": "cross",
+            "feature_7": "",
+            "feature_7_us": "check",
+            "feature_7_others": "cross",
+            "feature_8": "",
+            "feature_8_us": "check",
+            "feature_8_others": "cross",
+            "desktop_width_percent": 100,
+            "table_background": "#ffffff",
+            "header_background": "#f3f3f3",
+            "us_column_background": "#fff5f7",
+            "header_text_color": "#1a1b18",
+            "text_color": "#212326",
+            "border_color": "#d2d5d9",
+            "border_thickness": 1,
+            "border_radius": 8,
+            "cell_padding": 16,
+            "header_font_size": 16,
+            "text_size": 14,
+            "icon_size": 24,
+            "checkmark_color": "#008060",
+            "cross_color": "#d72c0d"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c3b5b5d_EG3dM9"
+      ],
+      "settings": {}
+    },
     "17764622655effde13": {
       "type": "_blocks",
       "blocks": {
@@ -641,6 +702,7 @@
     "image_with_text_wTpjKY",
     "scrolling_promotion_fRBUEM",
     "image_with_text_FbEpq4",
+    "1776528372f1a72bb7",
     "17764622655effde13",
     "logo_list_mVxzE8",
     "faq_jmBgHT",
