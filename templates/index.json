@@ -170,7 +170,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/app.png",
+            "image": "shopify://shop_images/images__1_-removebg-preview.png",
             "height": 160,
             "link": ""
           }
@@ -178,7 +178,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/halal.png",
+            "image": "shopify://shop_images/halal-logo-icon-symbol-halal-islamic-food-certification-format-png.webp",
             "height": 160,
             "link": ""
           }
@@ -186,7 +186,7 @@
         "image-5": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/lab.png",
+            "image": "shopify://shop_images/lab-tested-rubber-grunge-stamp-seal-vector-removebg-preview.png",
             "height": 160,
             "link": ""
           }
