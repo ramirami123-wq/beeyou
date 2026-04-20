@@ -135,8 +135,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>At <strong>Eliksir</strong>, we make wellness simple and enjoyable. Our gummy supplements are designed to support your health—from metabolism and digestion to stress and balance—without the hassle of traditional routines.</p><p>Made with quality, plant-based ingredients, our formulas are crafted to fit seamlessly into your daily life—so taking care of yourself feels easy, consistent, and actually enjoyable.</p><p><strong>Chew. Heal. Repeat.</strong></p>",
-            "text_size": "typeset3",
+            "text": "<p>At <strong>Essenzia</strong>, we make wellness simple and enjoyable. Our gummy supplements are designed to support your health—from metabolism and digestion to stress and balance—without the hassle of traditional routines.</p><p>Made with quality, plant-based ingredients, our formulas are crafted to fit seamlessly into your daily life—so taking care of yourself feels easy, consistent, and actually enjoyable.</p><p><strong>Chew. Heal. Repeat.</strong></p>",
+            "text_size": "typeset",
             "secondary_color": false,
             "highlight_phrases": "Chew. Heal. Repeat.\nEliksir\nquality, plant-based ingredients",
             "highlight_style": "marker"
