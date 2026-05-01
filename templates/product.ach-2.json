@@ -246,12 +246,12 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsAppImage2026-04-11at2.04.06PM_a76d30b7-0107-4ddb-84d9-12b793e3531b.jpg",
+        "image": "shopify://shop_images/IMG_3464.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
         "text_alignment": "left",
-        "image_ratio": "650px",
+        "image_ratio": "adapt",
         "enlarge_content": false,
         "full_width": false,
         "show_divider": false,
@@ -293,7 +293,7 @@
       "settings": {
         "direction": "left",
         "speed": 1.6,
-        "show_divider": false,
+        "show_divider": true,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
@@ -327,9 +327,9 @@
         "heading_rYxBbH",
         "text_ckyDHT"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_3464.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -362,7 +362,7 @@
           "settings": {
             "heading": "Why choose us?",
             "heading_size": 32,
-            "heading_spacing": 24,
+            "heading_spacing": 32,
             "heading_color": "#1a1b18",
             "feature_column_label": "Feature",
             "us_column_label": "Us",
