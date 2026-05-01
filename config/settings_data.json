@@ -47,12 +47,13 @@
     "button_shadow_vertical_offset": 0,
     "card_image_padding": 0,
     "card_text_alignment": "left",
-    "card_border_thickness": 2,
-    "card_corner_radius": 34,
-    "card_shadow_horizontal_offset": 0,
-    "card_shadow_vertical_offset": 0,
+    "card_border_thickness": 0,
+    "card_corner_radius": 40,
+    "card_shadow_horizontal_offset": 6,
+    "card_shadow_vertical_offset": 8,
     "quick_view_enabled": true,
     "color_swatches_enabled": true,
+    "color_swatches_source": "file",
     "color_swatches_position": "top",
     "color_swatches_max_items": 4,
     "cart_drawer_enabled": true,
@@ -388,5 +389,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product__media img,.product__media,.media img {border-radius: 20px !important; overflow: hidden;}"
+    ]
   }
 }
