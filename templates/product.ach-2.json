@@ -253,7 +253,7 @@
         "text_alignment": "left",
         "image_ratio": "adapt",
         "enlarge_content": false,
-        "full_width": false,
+        "full_width": true,
         "show_divider": false,
         "image_behavior": "none",
         "mobile_layout": "image_first",
