@@ -169,6 +169,9 @@
         "related_buttons",
         "sticky_cart"
       ],
+      "custom_css": [
+        ".product__media img,.product__media-wrapper,.product__media-list img {border-radius: 24px !important;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
