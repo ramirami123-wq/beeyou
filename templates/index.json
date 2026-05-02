@@ -319,7 +319,7 @@
           "type": "question",
           "settings": {
             "title": "Can I take multiple products together?",
-            "text": "<p>In most cases, yes. However, we recommend checking ingredient lists or consulting a professional if you're unsure.</p>"
+            "text": "<p>Yes!</p>"
           }
         }
       },
