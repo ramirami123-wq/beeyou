@@ -228,81 +228,6 @@
         "padding_bottom": 28
       }
     },
-    "guarantees": {
-      "type": "guarantees",
-      "blocks": {
-        "guarantee-0": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "leaf",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
-          }
-        },
-        "guarantee-1": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "globe",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
-          }
-        },
-        "guarantee-2": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "recycle",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
-          }
-        },
-        "guarantee-3": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "shield",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "guarantee-0",
-        "guarantee-1",
-        "guarantee-2",
-        "guarantee-3"
-      ],
-      "settings": {
-        "layout": "default",
-        "column_alignment": "center",
-        "horizontal_content": false,
-        "full_width": true,
-        "show_divider": false,
-        "columns_desktop": 4,
-        "heading": "Guarantees",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "use_custom_colors": false,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 72,
-        "padding_bottom": 36
-      }
-    },
     "logo_list_ta67Kf": {
       "type": "logo-list",
       "blocks": {
@@ -488,6 +413,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -498,67 +424,78 @@
         "padding_bottom": 36
       }
     },
-    "testimonials": {
-      "type": "testimonials",
+    "guarantees": {
+      "type": "guarantees",
       "blocks": {
-        "testimonial-0": {
-          "type": "testimonial",
+        "guarantee-0": {
+          "type": "guarantee",
           "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "icon": "leaf",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.</p>"
           }
         },
-        "testimonial-1": {
-          "type": "testimonial",
+        "guarantee-1": {
+          "type": "guarantee",
           "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "icon": "globe",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.</p>"
           }
         },
-        "testimonial-2": {
-          "type": "testimonial",
+        "guarantee-2": {
+          "type": "guarantee",
           "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "icon": "recycle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.</p>"
           }
         },
-        "testimonial-3": {
-          "type": "testimonial",
+        "guarantee-3": {
+          "type": "guarantee",
           "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "icon": "shield",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.</p>"
           }
         }
       },
       "block_order": [
-        "testimonial-0",
-        "testimonial-1",
-        "testimonial-2",
-        "testimonial-3",
-        "testimonial-4"
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
       ],
       "settings": {
-        "autorotate": false,
-        "autorotate_speed": 5,
-        "hide_images": false,
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": true,
         "show_divider": false,
-        "heading": "Testimonials",
+        "columns_desktop": 4,
+        "heading": "Guarantees",
         "heading_size": "h1",
-        "heading_alignment": "center",
         "heading_tag": "h2",
-        "padding_top": 36,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 72,
         "padding_bottom": 36
       }
     },
@@ -588,6 +525,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "text_alignment": "center",
         "mobile_text_alignment": "center",
@@ -676,6 +614,7 @@
         "image-3",
         "image-4"
       ],
+      "disabled": true,
       "settings": {
         "per_row": 5,
         "spacing_images": 4,
@@ -693,21 +632,85 @@
         "padding_top": 0,
         "padding_bottom": 4
       }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4"
+      ],
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "empty-space",
     "main",
     "scrolling-promotion",
-    "guarantees",
     "logo_list_ta67Kf",
     "image_with_text_tAUGAQ",
     "collapsible-content",
     "product-recommendations",
     "recently-viewed-products",
     "image_with_text_gY8Yx6",
-    "testimonials",
+    "guarantees",
     "rich-text",
-    "gallery"
+    "gallery",
+    "testimonials"
   ]
 }
