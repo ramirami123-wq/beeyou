@@ -457,6 +457,7 @@
     },
     "image_with_text_qWaLmb": {
       "type": "image-with-text",
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/essenzia-acv-science-trust.jpg",
