@@ -86,28 +86,6 @@
             "custom_liquid": ""
           }
         },
-        "collapsible_tab-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Benefits",
-            "content": "<p>Supports metabolism and helps maintain energy balance<br/><br/>Aids digestion and may help reduce bloating<br/><br/>Promotes overall wellness and daily balance<br/><br/>Delicious gummy format with no harsh vinegar taste</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
-        "collapsible_tab-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "How to Use",
-            "content": "<p>Take the recommended serving daily (see label)<br/><br/>Chew thoroughly before swallowing<br/><br/>Use consistently for best results<br/><br/>Can be taken anytime, with or without food</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -160,8 +138,6 @@
         "countdown",
         "variant_picker",
         "custom_liquid_dXzkRq",
-        "collapsible_tab-0",
-        "collapsible_tab-1",
         "buy_buttons",
         "custom_liquid_CeejGq",
         "inventory_status",
