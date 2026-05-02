@@ -9,13 +9,6 @@
  */
 {
   "sections": {
-    "empty-space": {
-      "type": "empty-space",
-      "settings": {
-        "desktop_height": 36,
-        "mobile_height": 16
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -323,6 +316,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -741,12 +735,11 @@
     }
   },
   "order": [
-    "empty-space",
     "main",
+    "image_with_text_PhXRN4",
     "scrolling-promotion",
     "image_with_text_wTpjKY",
     "scrolling_promotion_fRBUEM",
-    "image_with_text_PhXRN4",
     "image_with_text_FbEpq4",
     "logo_list_Mekmwg",
     "1776528372f1a72bb7",
