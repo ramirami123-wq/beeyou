@@ -698,6 +698,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "logo_list_jPPM6F": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HXieYc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3527.jpg",
+            "link": ""
+          }
+        },
+        "logo_iLXAD7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3525.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_HXieYc",
+        "logo_iLXAD7"
+      ],
+      "name": "t:sections.logo-list.presets.name",
+      "settings": {
+        "opacity": 72,
+        "show_divider": false,
+        "heading": "Tastes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -714,6 +748,7 @@
     "17764628746257059b",
     "guarantees",
     "product-recommendations",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "logo_list_jPPM6F"
   ]
 }
