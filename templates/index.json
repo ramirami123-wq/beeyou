@@ -68,7 +68,7 @@
         "horizontal_scroll": false,
         "show_view_all": true,
         "show_divider": false,
-        "heading": "Featured collection",
+        "heading": "Collection",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
@@ -227,6 +227,7 @@
         "image-4",
         "image-5"
       ],
+      "custom_css": [],
       "settings": {
         "direction": "left",
         "speed": 1.2,
