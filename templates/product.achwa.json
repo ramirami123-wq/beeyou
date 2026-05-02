@@ -543,6 +543,40 @@
         "padding_bottom": 28
       }
     },
+    "logo_list_ta67Kf": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_TWfbzi": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3527.jpg",
+            "link": ""
+          }
+        },
+        "logo_cPVRqm": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3525.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_TWfbzi",
+        "logo_cPVRqm"
+      ],
+      "name": "t:sections.logo-list.presets.name",
+      "settings": {
+        "opacity": 28,
+        "show_divider": false,
+        "heading": "TASTE",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "gallery": {
       "type": "gallery",
       "blocks": {
@@ -631,40 +665,6 @@
         "padding_top": 0,
         "padding_bottom": 4
       }
-    },
-    "logo_list_ta67Kf": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_TWfbzi": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3527.jpg",
-            "link": ""
-          }
-        },
-        "logo_cPVRqm": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3525.jpg",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_TWfbzi",
-        "logo_cPVRqm"
-      ],
-      "name": "t:sections.logo-list.presets.name",
-      "settings": {
-        "opacity": 28,
-        "show_divider": false,
-        "heading": "TASTE",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -672,13 +672,13 @@
     "main",
     "scrolling-promotion",
     "guarantees",
+    "logo_list_ta67Kf",
     "image_with_text_tAUGAQ",
     "collapsible-content",
     "product-recommendations",
     "recently-viewed-products",
     "testimonials",
     "rich-text",
-    "gallery",
-    "logo_list_ta67Kf"
+    "gallery"
   ]
 }
