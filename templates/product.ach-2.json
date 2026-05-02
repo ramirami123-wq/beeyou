@@ -216,7 +216,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#ffffff",
-        "colors_background": "#ff024e",
+        "colors_background": "#0fb5cb",
         "gradient_background": "",
         "padding_top": 28,
         "padding_bottom": 28
@@ -299,7 +299,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#ff024e",
+        "colors_background": "#0fb5cb",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -489,7 +489,7 @@
             "heading_alignment": "left",
             "desktop_width_percent": 100,
             "background_color": "#ffffff",
-            "heading_bg_color": "#ff024e",
+            "heading_bg_color": "#00c9bd",
             "heading_text_color": "#ffffff",
             "border_color": "#d2d5d9",
             "row_border_color": "#f3f3f3",
@@ -564,6 +564,7 @@
         "logo_YmKEzx",
         "logo_Y3ig4p"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.logo-list.presets.name",
       "settings": {
@@ -632,30 +633,6 @@
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "17764628746257059b": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_U9zywE": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_U9zywE"
-      ],
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -776,7 +753,6 @@
     "17764622655effde13",
     "logo_list_mVxzE8",
     "faq_jmBgHT",
-    "17764628746257059b",
     "guarantees",
     "product-recommendations",
     "recently-viewed-products"
