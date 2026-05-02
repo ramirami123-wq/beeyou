@@ -359,10 +359,10 @@
         "guarantee-3": {
           "type": "guarantee",
           "settings": {
-            "icon": "chat_bubble",
+            "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "24/7 Support",
+            "title": "Quality & Safety Guarantee",
             "title_size": "h4",
             "text": ""
           }
