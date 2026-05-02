@@ -351,61 +351,6 @@
         "padding_bottom": 36
       }
     },
-    "17764622655effde13": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a64cd56_izYKjm": {
-          "type": "ai_gen_block_a64cd56",
-          "settings": {
-            "heading": "Product benefits",
-            "heading_alignment": "left",
-            "desktop_width_percent": 100,
-            "background_color": "#ffffff",
-            "heading_bg_color": "#ff024e",
-            "heading_text_color": "#ffffff",
-            "border_color": "#d2d5d9",
-            "row_border_color": "#f3f3f3",
-            "icon_color": "#faeaa1",
-            "title_color": "#212326",
-            "description_color": "#212326",
-            "border_radius": 8,
-            "border_thickness": 1,
-            "heading_padding": 20,
-            "cell_padding": 20,
-            "heading_size": 20,
-            "icon_size": 30,
-            "title_size": 16,
-            "description_size": 14,
-            "content_spacing": 15,
-            "benefit_1_enabled": true,
-            "benefit_1_icon": "checkmark",
-            "benefit_1_title": "Daily Metabolism Support",
-            "benefit_1_description": "Helps boost your metabolism and support your body’s natural energy balance throughout the day.",
-            "benefit_2_enabled": true,
-            "benefit_2_icon": "heart",
-            "benefit_2_title": "Better Digestion",
-            "benefit_2_description": "Supports healthy digestion and may help reduce bloating, so you feel lighter and more comfortable.",
-            "benefit_3_enabled": true,
-            "benefit_3_icon": "star",
-            "benefit_3_title": "Easy Wellness Routine",
-            "benefit_3_description": "A simple, delicious way to enjoy the benefits of apple cider vinegar—no harsh taste, just consistency.",
-            "benefit_4_enabled": true,
-            "benefit_4_icon": "checkmark",
-            "benefit_4_title": "Natural Energy Balance",
-            "benefit_4_description": "Supports your body’s natural processes to keep you feeling energized and on track.",
-            "benefit_5_enabled": true,
-            "benefit_5_icon": "leaf",
-            "benefit_5_title": "Clean & Convenient",
-            "benefit_5_description": "All the benefits of apple cider vinegar in a tasty, easy-to-take gummy—no mess, no strong taste."
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a64cd56_izYKjm"
-      ],
-      "settings": {}
-    },
     "1776528747889ea288": {
       "type": "_blocks",
       "blocks": {
@@ -470,6 +415,61 @@
       },
       "block_order": [
         "ai_gen_block_c758e92_7LwDAn"
+      ],
+      "settings": {}
+    },
+    "17764622655effde13": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a64cd56_izYKjm": {
+          "type": "ai_gen_block_a64cd56",
+          "settings": {
+            "heading": "Product benefits",
+            "heading_alignment": "left",
+            "desktop_width_percent": 100,
+            "background_color": "#ffffff",
+            "heading_bg_color": "#ff024e",
+            "heading_text_color": "#ffffff",
+            "border_color": "#d2d5d9",
+            "row_border_color": "#f3f3f3",
+            "icon_color": "#faeaa1",
+            "title_color": "#212326",
+            "description_color": "#212326",
+            "border_radius": 8,
+            "border_thickness": 1,
+            "heading_padding": 20,
+            "cell_padding": 20,
+            "heading_size": 20,
+            "icon_size": 30,
+            "title_size": 16,
+            "description_size": 14,
+            "content_spacing": 15,
+            "benefit_1_enabled": true,
+            "benefit_1_icon": "checkmark",
+            "benefit_1_title": "Daily Metabolism Support",
+            "benefit_1_description": "Helps boost your metabolism and support your body’s natural energy balance throughout the day.",
+            "benefit_2_enabled": true,
+            "benefit_2_icon": "heart",
+            "benefit_2_title": "Better Digestion",
+            "benefit_2_description": "Supports healthy digestion and may help reduce bloating, so you feel lighter and more comfortable.",
+            "benefit_3_enabled": true,
+            "benefit_3_icon": "star",
+            "benefit_3_title": "Easy Wellness Routine",
+            "benefit_3_description": "A simple, delicious way to enjoy the benefits of apple cider vinegar—no harsh taste, just consistency.",
+            "benefit_4_enabled": true,
+            "benefit_4_icon": "checkmark",
+            "benefit_4_title": "Natural Energy Balance",
+            "benefit_4_description": "Supports your body’s natural processes to keep you feeling energized and on track.",
+            "benefit_5_enabled": true,
+            "benefit_5_icon": "leaf",
+            "benefit_5_title": "Clean & Convenient",
+            "benefit_5_description": "All the benefits of apple cider vinegar in a tasty, easy-to-take gummy—no mess, no strong taste."
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a64cd56_izYKjm"
       ],
       "settings": {}
     },
@@ -651,6 +651,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
