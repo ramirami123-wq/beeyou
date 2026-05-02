@@ -696,6 +696,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1777733314194bdcf1": {
+      "type": "apps",
+      "blocks": {
+        "pumper_bundles_app_block_bundle_dMpRKx": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": true
+          }
+        }
+      },
+      "block_order": [
+        "pumper_bundles_app_block_bundle_dMpRKx"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -711,6 +732,7 @@
     "guarantees",
     "rich-text",
     "gallery",
-    "testimonials"
+    "testimonials",
+    "1777733314194bdcf1"
   ]
 }
