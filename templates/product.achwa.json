@@ -303,6 +303,40 @@
         "padding_bottom": 36
       }
     },
+    "logo_list_ta67Kf": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_TWfbzi": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3527.jpg",
+            "link": ""
+          }
+        },
+        "logo_cPVRqm": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3525.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_TWfbzi",
+        "logo_cPVRqm"
+      ],
+      "name": "t:sections.logo-list.presets.name",
+      "settings": {
+        "opacity": 28,
+        "show_divider": false,
+        "heading": "TASTE",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_tAUGAQ": {
       "type": "image-with-text",
       "name": "t:sections.image-with-text.presets.name",
@@ -436,6 +470,34 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_gY8Yx6": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/essenzia-acv-science-trust.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -543,40 +605,6 @@
         "padding_bottom": 28
       }
     },
-    "logo_list_ta67Kf": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_TWfbzi": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3527.jpg",
-            "link": ""
-          }
-        },
-        "logo_cPVRqm": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3525.jpg",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_TWfbzi",
-        "logo_cPVRqm"
-      ],
-      "name": "t:sections.logo-list.presets.name",
-      "settings": {
-        "opacity": 28,
-        "show_divider": false,
-        "heading": "TASTE",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "gallery": {
       "type": "gallery",
       "blocks": {
@@ -677,6 +705,7 @@
     "collapsible-content",
     "product-recommendations",
     "recently-viewed-products",
+    "image_with_text_gY8Yx6",
     "testimonials",
     "rich-text",
     "gallery"
