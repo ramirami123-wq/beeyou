@@ -19,13 +19,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "breadcrumb": {
-          "type": "breadcrumb",
-          "settings": {
-            "text_style": "uppercase",
-            "show_divider": true
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -64,6 +57,13 @@
             "colors_background": "#ffeeee"
           }
         },
+        "pumper_bundles_app_block_qb_pLd7gW": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -79,6 +79,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {}
         },
         "collapsible_tab-0": {
@@ -130,12 +131,12 @@
         }
       },
       "block_order": [
-        "breadcrumb",
         "vendor",
         "title",
         "rating",
         "price",
         "countdown",
+        "pumper_bundles_app_block_qb_pLd7gW",
         "variant_picker",
         "description",
         "collapsible_tab-0",
@@ -160,6 +161,27 @@
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "1777733314194bdcf1": {
+      "type": "apps",
+      "blocks": {
+        "pumper_bundles_app_block_bundle_dMpRKx": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{ product }}",
+            "using_page_builder": false
+          }
+        }
+      },
+      "block_order": [
+        "pumper_bundles_app_block_bundle_dMpRKx"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "scrolling-promotion": {
@@ -217,6 +239,34 @@
         "gradient_background": "",
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "image_with_text_6f9R4H": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Essenzia_claude_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "400px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "logo_list_ta67Kf": {
@@ -633,41 +683,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1777733314194bdcf1": {
-      "type": "apps",
-      "blocks": {
-        "pumper_bundles_app_block_qb_ee9ehG": {
-          "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
-          "settings": {
-            "selected_product": "{{product}}",
-            "using_page_builder": false
-          }
-        },
-        "pumper_bundles_app_block_bundle_dMpRKx": {
-          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
-          "settings": {
-            "selected_product": "{{ product }}",
-            "using_page_builder": false
-          }
-        }
-      },
-      "block_order": [
-        "pumper_bundles_app_block_qb_ee9ehG",
-        "pumper_bundles_app_block_bundle_dMpRKx"
-      ],
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "empty-space",
     "main",
+    "1777733314194bdcf1",
     "scrolling-promotion",
+    "image_with_text_6f9R4H",
     "logo_list_ta67Kf",
     "image_with_text_tAUGAQ",
     "product-recommendations",
@@ -676,7 +699,6 @@
     "guarantees",
     "rich-text",
     "gallery",
-    "testimonials",
-    "1777733314194bdcf1"
+    "testimonials"
   ]
 }
