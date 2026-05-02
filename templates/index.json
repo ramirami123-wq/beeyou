@@ -200,15 +200,15 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/images__1_-removebg-preview.png",
-            "height": 160,
+            "image": "shopify://shop_images/IMG_3559.png",
+            "height": 200,
             "link": ""
           }
         },
         "image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/halal-logo-icon-symbol-halal-islamic-food-certification-format-png.webp",
+            "image": "shopify://shop_images/IMG_3550_08b618e8-f45b-45f6-85c2-1af8db533be6.jpg",
             "height": 160,
             "link": ""
           }
@@ -216,7 +216,7 @@
         "image-5": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/lab-tested-rubber-grunge-stamp-seal-vector-removebg-preview.png",
+            "image": "shopify://shop_images/IMG_3552_faa0b214-c39f-4567-9d70-2b3245d2b271.png",
             "height": 160,
             "link": ""
           }
