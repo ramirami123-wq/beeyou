@@ -83,20 +83,10 @@
         },
         "collapsible_tab-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
-        "collapsible_tab-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "2. Collapsible tab",
             "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "page": "",
             "custom_liquid": "",
@@ -149,7 +139,6 @@
         "variant_picker",
         "description",
         "collapsible_tab-0",
-        "collapsible_tab-1",
         "buy_buttons",
         "inventory_status",
         "share",
@@ -178,6 +167,7 @@
       "blocks": {
         "announcement-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_size": "medium",
@@ -189,6 +179,7 @@
         },
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_size": "medium",
@@ -287,60 +278,6 @@
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "question-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": ""
-          }
-        },
-        "question-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": ""
-          }
-        },
-        "question-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": ""
-          }
-        },
-        "question-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "question-0",
-        "question-1",
-        "question-2",
-        "question-3"
-      ],
-      "settings": {
-        "open_first_collapsible_row": false,
-        "narrow": true,
-        "show_divider": false,
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -700,15 +637,23 @@
     "1777733314194bdcf1": {
       "type": "apps",
       "blocks": {
+        "pumper_bundles_app_block_qb_ee9ehG": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
+        },
         "pumper_bundles_app_block_bundle_dMpRKx": {
           "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
-            "selected_product": "{{product}}",
-            "using_page_builder": true
+            "selected_product": "{{ product }}",
+            "using_page_builder": false
           }
         }
       },
       "block_order": [
+        "pumper_bundles_app_block_qb_ee9ehG",
         "pumper_bundles_app_block_bundle_dMpRKx"
       ],
       "settings": {
@@ -725,7 +670,6 @@
     "scrolling-promotion",
     "logo_list_ta67Kf",
     "image_with_text_tAUGAQ",
-    "collapsible-content",
     "product-recommendations",
     "recently-viewed-products",
     "image_with_text_gY8Yx6",
