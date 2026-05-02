@@ -158,14 +158,14 @@
           "type": "heading",
           "settings": {
             "heading": "At Essenzia",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>At Essenzia, we create gummy supplements that support your body from the inside out—helping with metabolism, digestion, and everyday balance.</p><p><br/></p><p>No pressure. No complicated routines. Just small daily habits that make a real difference.</p><p><br/></p><p>Made with plant based ingredients, designed to fit beautifully into your life.</p><p><br/></p><p><strong>Chew. Nourish. Glow.</strong></p>",
+            "text": "<p> Essenzia was created to simplify wellness.</p><p></p><p>Our gummy supplements are thoughtfully formulated to support your metabolism, digestion, and overall balance without overwhelming your routine.<br/></p><p>Clean, plant based ingredients. Precise dosages. Real results you can feel.</p><p>Because taking care of your body shouldn’t feel complicated.</p>",
             "text_size": "typeset",
             "secondary_color": false,
             "highlight_phrases": "Chew . Nourish. Glow\nEssenzia \nquality, plant-based ingredients",
@@ -474,6 +474,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
