@@ -238,6 +238,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -284,6 +285,7 @@
     },
     "image_with_text_tAUGAQ": {
       "type": "image-with-text",
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/IMG_3463.jpg",
@@ -650,6 +652,7 @@
         "testimonial-3",
         "testimonial-4"
       ],
+      "disabled": true,
       "settings": {
         "autorotate": false,
         "autorotate_speed": 5,
