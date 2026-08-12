@@ -22,10 +22,20 @@
             "text_size": 13,
             "link": ""
           }
+        },
+        "announcement_fzybEN": {
+          "type": "announcement",
+          "settings": {
+            "text": "Loved By 1000+ customer",
+            "text_on_mobile": "",
+            "text_size": 13,
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_fzybEN"
       ],
       "settings": {
         "only_homepage": true,
