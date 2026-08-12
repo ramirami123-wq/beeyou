@@ -290,6 +290,50 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_qVGftJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RftriC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wellness Made Simple",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_FJU3fG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>  Taking care of your body shouldn’t be complicated. Our Apple Cider Vinegar Gummies make it easy to support your metabolism and digestion in a simple, enjoyable way—no harsh taste, no hassle.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RftriC",
+        "text_FJU3fG"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_RCVXWX": {
       "type": "image-with-text",
       "name": "t:sections.image-with-text.presets.name",
@@ -796,6 +840,7 @@
     "scrolling-promotion",
     "logo_list_jPPM6F",
     "scrolling_promotion_fRBUEM",
+    "rich_text_qVGftJ",
     "image_with_text_RCVXWX",
     "image_with_text_FbEpq4",
     "1776528747889ea288",
