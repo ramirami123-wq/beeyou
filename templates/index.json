@@ -414,6 +414,32 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_7Br83n": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_2": "shopify://shop_images/Essenzia_er_-_8_2a87387e-7706-4913-bcc9-ad6804b48a19.png",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bundle-products": {
       "type": "bundle-products",
       "blocks": {
@@ -461,49 +487,6 @@
         "heading": "Bundle products",
         "heading_size": "h1",
         "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich-text-0": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "At Essenzia",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p> Essenzia was created to simplify wellness.</p><p></p><p>Our gummy supplements are thoughtfully formulated to support your metabolism, digestion, and overall balance without overwhelming your routine.<br/></p><p>Clean, plant based ingredients. Precise dosages. Real results you can feel.</p><p>Because taking care of your body shouldn’t feel complicated.</p>",
-            "text_size": "typeset",
-            "secondary_color": false,
-            "highlight_phrases": "Chew . Nourish. Glow\nEssenzia \nquality, plant-based ingredients",
-            "highlight_style": "marker"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "left",
-        "horizontal_content": false,
-        "narrow": true,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#ff024e",
-        "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -805,6 +788,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "slideshow_Vab3ax": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dFhTke": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/09F95EED-51DB-4D3C-9552-F1AF1F31AF0B.png",
+            "image_mobile": "shopify://shop_images/09F95EED-51DB-4D3C-9552-F1AF1F31AF0B.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "Give customers details about the slide image or content on the template.",
+            "text_size": "typeset",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "image_BNapfc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/02463A36-0EB8-4338-820A-E44550CBDCB4.jpg",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "Give customers details about the slide image or content on the template.",
+            "text_size": "typeset",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "image_dFhTke",
+        "image_BNapfc"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "slideshow_type": "modern",
+        "text_alignment": "left",
+        "image_ratio": "adapt_first",
+        "autorotate": false,
+        "autorotate_speed": 3,
+        "full_width": true,
+        "image_behavior": "ambient",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt_first",
+        "show_text_below": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#ffffff",
+        "colors_overlay_opacity": 92,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -813,14 +867,15 @@
     "featured_collection_Lp8D6G",
     "scrolling_promotion_GVkAr8",
     "image_with_text_Jb3ypg",
+    "image_banner_7Br83n",
     "bundle-products",
-    "rich-text-0",
     "scrolling-promotion",
     "image_with_text_kxhKVN",
     "faq_f6Mecp",
     "guarantees",
     "image_with_text_GRpQkC",
     "image_with_text_qWaLmb",
-    "17778181695c17fc81"
+    "17778181695c17fc81",
+    "slideshow_Vab3ax"
   ]
 }
