@@ -558,7 +558,7 @@
             "heading_height": 130,
             "heading_mt": 0,
             "heading_mt_mobile": 0,
-            "heading_color": "#FF004E"
+            "heading_color": "#ff004e"
           }
         },
         "text_3KCMnT": {
@@ -656,14 +656,14 @@
         "tab_padding_horizontal_mobile": 40,
         "slider_view": 3.5,
         "slider_view_mobile": 1.3,
-        "slider_advanced": false,
+        "slider_advanced": true,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
         "slider_mt": 40,
         "slider_mt_mobile": 32,
         "slide_content_align": "center",
         "slide_content_align_mobile": "center",
-        "slide_content_advanced": false,
+        "slide_content_advanced": true,
         "slide_content_padding_horizontal": 0,
         "slide_content_padding_horizontal_mobile": 0,
         "slide_content_padding_vertical": 20,
@@ -671,8 +671,8 @@
         "image_ratio": "square",
         "image_ratio_mobile": "square",
         "image_hover_type": "zoom",
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
+        "title_custom": true,
+        "title_font": "anton_n4",
         "title_size": 28,
         "title_size_mobile": 24,
         "title_height": 130,
@@ -721,7 +721,7 @@
         "product_button_border_thickness": 1,
         "product_button_mt": 16,
         "product_button_mt_mobile": 16,
-        "product_button_full_mobile": false,
+        "product_button_full_mobile": true,
         "use_button": true,
         "button": "Shop all",
         "button_open_in_new_tab": false,
@@ -798,16 +798,17 @@
         "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
-        "width": "page",
+        "width": "full",
         "content_width": 1200,
         "border_thickness": 0,
-        "section_radius": 0,
+        "section_radius": 52,
         "lazy": true
       }
     }
   },
   "order": [
     "slideshow",
+    "ss_featured_collection_tabs_6_VDtRkG",
     "featured_collection_Lp8D6G",
     "scrolling_promotion_GVkAr8",
     "image_with_text_Jb3ypg",
@@ -819,7 +820,6 @@
     "guarantees",
     "image_with_text_GRpQkC",
     "image_with_text_qWaLmb",
-    "17778181695c17fc81",
-    "ss_featured_collection_tabs_6_VDtRkG"
+    "17778181695c17fc81"
   ]
 }
