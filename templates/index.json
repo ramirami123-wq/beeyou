@@ -414,11 +414,11 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_7Br83n": {
+    "image_banner_E3mHBG": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image_2": "shopify://shop_images/Essenzia_er_-_8_2a87387e-7706-4913-bcc9-ad6804b48a19.png",
+        "image_2": "shopify://shop_images/Essenzia_er_-_11_e25096a9-6e17-4e91-a445-da2113ec4565.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -493,37 +493,6 @@
     },
     "scrolling-promotion": {
       "type": "scrolling-promotion",
-      "blocks": {
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3559.png",
-            "height": 200,
-            "link": ""
-          }
-        },
-        "image-4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_7194.png",
-            "height": 144,
-            "link": ""
-          }
-        },
-        "image-5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3552_faa0b214-c39f-4567-9d70-2b3245d2b271.png",
-            "height": 160,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image-3",
-        "image-4",
-        "image-5"
-      ],
       "disabled": true,
       "settings": {
         "direction": "left",
@@ -536,35 +505,6 @@
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "image_with_text_kxhKVN": {
-      "type": "image-with-text",
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/FAB7C998-BA7F-434C-9CED-69F62BFCE256.png",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "adapt",
-        "enlarge_content": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "faq_f6Mecp": {
@@ -767,10 +707,9 @@
     "featured_collection_Lp8D6G",
     "scrolling_promotion_GVkAr8",
     "image_with_text_Jb3ypg",
-    "image_banner_7Br83n",
+    "image_banner_E3mHBG",
     "bundle-products",
     "scrolling-promotion",
-    "image_with_text_kxhKVN",
     "faq_f6Mecp",
     "guarantees",
     "image_with_text_GRpQkC",
