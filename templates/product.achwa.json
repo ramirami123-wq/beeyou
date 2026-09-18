@@ -221,6 +221,7 @@
     },
     "image_with_text_6f9R4H": {
       "type": "image-with-text",
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Essenzia_claude_1.png",
@@ -248,6 +249,32 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_APMdgU": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_2": "shopify://shop_images/Essenzia_er_-_10_08e7ae25-9c29-442c-99d6-8abdaff44d02.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "logo_list_ta67Kf": {
       "type": "logo-list",
       "blocks": {
@@ -270,6 +297,7 @@
         "logo_TWfbzi",
         "logo_cPVRqm"
       ],
+      "disabled": true,
       "name": "t:sections.logo-list.presets.name",
       "settings": {
         "opacity": 28,
@@ -668,6 +696,7 @@
     "main",
     "scrolling-promotion",
     "image_with_text_6f9R4H",
+    "image_banner_APMdgU",
     "logo_list_ta67Kf",
     "product-recommendations",
     "recently-viewed-products",
