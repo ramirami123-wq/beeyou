@@ -184,6 +184,70 @@
         "padding_bottom": 72
       }
     },
+    "scrolling_promotion_fRBUEM": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WkJEHn": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Relax, reset, recharge",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WkJEHn"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": true,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#0fb5cb",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_heXr39": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WdJrXV": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Relax, reset, recharge",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WdJrXV"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": true,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#0fb5cb",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_pYcwaY": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -319,38 +383,6 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_fRBUEM": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_WkJEHn": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Relax, reset, recharge",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_WkJEHn"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": true,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#0fb5cb",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -803,11 +835,12 @@
   },
   "order": [
     "main",
+    "scrolling_promotion_fRBUEM",
     "image_banner_pYcwaY",
+    "scrolling_promotion_heXr39",
     "image_with_text_PhXRN4",
     "scrolling-promotion",
     "image_with_text_wTpjKY",
-    "scrolling_promotion_fRBUEM",
     "image_with_text_FbEpq4",
     "logo_list_Mekmwg",
     "1776528372f1a72bb7",
